@@ -61,6 +61,7 @@ abstract class Prefs {
   static late final PlainPref<bool> editorPromptRename;
 
   static late final PlainPref<bool> hideHomeBackgrounds;
+  static late final PlainPref<bool> dontSavePresetColors;
 
   static late final PlainPref<double> maxImageSize;
 
@@ -122,6 +123,7 @@ abstract class Prefs {
     editorPromptRename = PlainPref('editorPromptRename', isDesktop);
 
     hideHomeBackgrounds = PlainPref('hideHomeBackgrounds', false);
+    dontSavePresetColors = PlainPref('dontSavePresetColors', false);
 
     maxImageSize = PlainPref('maxImageSize', 1000);
 
