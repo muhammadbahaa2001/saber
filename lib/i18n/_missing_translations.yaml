@@ -4,41 +4,41 @@
 ar:
   home:
     titles:
-      browse(OUTDATED): Browse
+      browse(OUTDATED): تصفح
     create:
-      newNote(OUTDATED): New note
-      importNote(OUTDATED): Import note
-    backFolder(OUTDATED): Go back to the previous folder
+      newNote(OUTDATED): ملاحظة جديدة
+      importNote(OUTDATED): استيراد ملاحظة
+    backFolder(OUTDATED): ارجع إلى المجلد السابق
     moveNote:
-      moveName(OUTDATED): Move $f
-    deleteNote(OUTDATED): Delete note
+      moveName(OUTDATED): حرك $f
+    deleteNote(OUTDATED): حذف الملاحظة
     deleteFolder:
-      deleteFolder(OUTDATED): Delete folder
-      deleteName(OUTDATED): Delete $f
-      delete(OUTDATED): Delete
-      alsoDeleteContents(OUTDATED): Also delete all notes inside this folder
+      deleteFolder(OUTDATED): حذف المجلد
+      deleteName(OUTDATED): حذف $f
+      delete(OUTDATED): حذف
+      alsoDeleteContents(OUTDATED): احذف أيضًا جميع الملاحظات الموجودة داخل هذا المجلد
   settings:
     prefCategories:
-      editor(OUTDATED): Editor
-      advanced(OUTDATED): Advanced
+      editor(OUTDATED): محرر
+      advanced(OUTDATED): متقدم
     prefLabels:
-      shouldAlwaysAlertForUpdates(OUTDATED): Faster updates
-      disableAds(OUTDATED): Disable ads
-      changeAdsConsent(OUTDATED): Change ads consent
-      allowInsecureConnections(OUTDATED): Allow insecure connections
-      disableEraserAfterUse(OUTDATED): Auto-disable the eraser
-      hideFingerDrawingToggle(OUTDATED): Hide the finger drawing toggle
-      autosaveDelay(OUTDATED): Auto-save delay
+      shouldAlwaysAlertForUpdates(OUTDATED): تحديثات أسرع
+      disableAds(OUTDATED): تعطيل الاعلانات
+      changeAdsConsent(OUTDATED): تغيير موافقة الإعلانات
+      allowInsecureConnections(OUTDATED): السماح بالاتصالات غير الآمنة
+      disableEraserAfterUse(OUTDATED): تعطيل تلقائي للممحاة
+      hideFingerDrawingToggle(OUTDATED): إخفاء مبدل رسم الإصبع
+      autosaveDelay(OUTDATED): تأخير الحفظ التلقائي
     prefDescriptions:
-      disableAds(OUTDATED): "Ads help support Saber's development, but you can disable them if you'd like"
-      allowInsecureConnections(OUTDATED): (Not recommended) Allow Saber to connect to servers with self-signed/untrusted certificates
-      disableEraserAfterUse(OUTDATED): Automatically switches back to the pen after using the eraser
+      disableAds(OUTDATED):"تساعد الإعلانات في دعم تطوير Saber ،ولكن يمكنك تعطيلها إذا كنت ترغب في ذلك"
+      allowInsecureConnections(OUTDATED): (غير مستحسن)السماح لـ Saber بالاتصال بالخوادم ذات الشهادات الموقعة ذاتيًا/غير الموثوق بها
+      disableEraserAfterUse(OUTDATED):العودة تلقائيًا إلى القلم بعد استخدام الممحاة
       hideFingerDrawing:
-        shown(OUTDATED): Prevents accidental toggling
-        fixedOn(OUTDATED): Finger drawing is fixed as enabled
-        fixedOff(OUTDATED): Finger drawing is fixed as disabled
-      autosaveDelay(OUTDATED): How long to wait before auto-saving a note
-      shouldAlwaysAlertForUpdates(OUTDATED): Tell me about updates as soon as they're available
+        shown(OUTDATED): يمنع التبديل العرضي
+        fixedOn(OUTDATED): تم إصلاح رسم الإصبع على أنه ممكن
+        fixedOff(OUTDATED): تم إصلاح رسم الإصبع على أنه معطل
+      autosaveDelay(OUTDATED): كم من الوقت تنتظر قبل الحفظ التلقائي لملاحظة
+      shouldAlwaysAlertForUpdates(OUTDATED): أخبرني عن التحديثات بمجرد توفرها
 cs:
   home:
     create:
